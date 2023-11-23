@@ -1,0 +1,20 @@
+.form-ui {
+  width: 50%;
+  margin: auto;
+  border: 1px solid black;
+}
+.user-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.data {
+  margin: 10px 0px;
+}
+.error {
+  color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
